@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "count": 50,
-  "sourceCount": 7,
+  "count": 59,
+  "sourceCount": 11,
   "officialCount": 24,
   "categories": {
+    "创作设计": 15,
+    "运营增长": 10,
+    "文档办公": 7,
     "编程开发": 11,
-    "创作设计": 8,
-    "运营增长": 9,
     "研究分析": 6,
-    "文档办公": 6,
     "工具效率": 10
   },
-  "sha256": "dec0e5659cda3bd5386d857b46d7f37b0302af018c6ef9b12fe5469112227c3a",
-  "collectedAt": "2026-10-04T13:45:33Z"
+  "sha256": "0f9fb9f1de5188e53d2743133918730e1b08cf9d21e68e57047c7085696a6fd9",
+  "collectedAt": "2026-10-04T14:43:15.085586Z"
 }

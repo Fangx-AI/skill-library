@@ -2,11 +2,11 @@
 
 # Skill Library
 
-**把任务交给对的 Skill。**
+**先看案例，再选 Skill。**
 
-从官方与社区发现 Agent Skills，看懂用途，找到安装方式。
+一个有预览、有出处、有安装指南的中文 Agent Skills 目录。
 
-50 个技能 · 6 类任务 · 7 个公开来源
+59 个技能 · 6 类任务 · 11 个公开来源
 
 [打开网站](https://fangx-ai.github.io/skill-library/) · [收录来源](SOURCE.md) · [推荐 Skill](https://github.com/Fangx-AI/skill-library/issues/new)
 
@@ -14,14 +14,15 @@
 
 [![Skill Library 网站预览](docs/images/home.jpg)](https://fangx-ai.github.io/skill-library/)
 
-## 找到之后，直接开始
+## 看见它能做什么
 
+- **先看预览**：封面、漫画、图文、网页与演示稿，展示作者公开的真实案例；缺少案例的条目标注原文预览。
 - **按任务找**：创作设计、编程开发、文档办公、研究分析、运营增长、工具效率。
 - **看清用途**：中文说明、适用场景、示例请求和前置要求。
 - **安装有依据**：支持 CLI 的条目可复制命令；需要插件的条目提供官方安装指南。
 - **随时回访**：收藏保存在当前浏览器，搜索与筛选可以通过链接分享。
 
-每个条目都能追溯到上游文件、版本与许可。GitHub Stars 是**来源仓库**的数据，不是单个 Skill 的使用量。收录不代表已逐项运行或兼容所有 Agent。
+每个条目都能追溯到上游文件、固定版本与许可。图片出处和署名见 [预览清单](dist/media-manifest.json)。GitHub Stars 是**来源仓库**的数据；本站没有逐项执行收录的 Skills。
 
 <details>
 <summary>看看技能库与安装详情</summary>

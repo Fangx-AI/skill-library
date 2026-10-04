@@ -25,9 +25,7 @@
 每个条目都能追溯到上游文件、固定版本与许可。图片出处和署名见 [预览清单](dist/media-manifest.json)。GitHub Stars 是**来源仓库**的数据；本站没有逐项执行收录的 Skills。
 
 <details>
-<summary>看看技能库与安装详情</summary>
-
-![技能库：按任务和来源筛选](docs/images/library.jpg)
+<summary>看看安装详情</summary>
 
 ![技能详情：用途、示例与安装方式](docs/images/detail.jpg)
 
